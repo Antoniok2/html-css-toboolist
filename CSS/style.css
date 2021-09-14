@@ -70,36 +70,42 @@ body{
     background-color: blue;
     color: white;
     padding: 3px;
+    font-size: 10px;
 }
 .q1goals{
     border-radius: 8px;
     background-color: purple;
     color: white;
     padding: 3px;
+    font-size: 10px;
 }
 .recluiting{
     background-color: rgb(54, 197, 54);
     color: white;
     border-radius: 8px;
     padding: 3px;
+    font-size: 10px;
 }
 .website{
     background-color: pink;
     color: white;
     border-radius: 8px;
     padding: 3px;
+    font-size: 10px;
 }
 .mobile{
     background-color: orange;
     color: white;
     border-radius: 8px;
     padding: 3px;
+    font-size: 10px;
 }
 .sales{
     background-color: rgb(15, 224, 15);
     color: white;
     border-radius: 8px;
     padding: 3px;
+    font-size: 10px;
 }
 
 h5{
