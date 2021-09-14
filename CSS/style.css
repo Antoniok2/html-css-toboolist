@@ -1,19 +1,17 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 body{
     background-color: #ffffff;
 }
 
 #headsection{
-    padding: 10px 20px;
-    margin: 10px;
+    padding-left: 15px;
+    padding-top: 8px;
+    padding-bottom: 0px;
+    margin: 0px;
+    display: inline-block;
 }
 
-span{
+#titolo{
     padding-left: 5px;
     height: 68px;
     font-family: 'Roboto', sans-serif;
@@ -22,14 +20,20 @@ span{
     display: inline-block;
 }
 
+.corpopagina{
+    background-color: rgb(224, 254, 255);
+    padding: 5px;
+    margin: 10px;
+    border: 10px;
+   
+}
+
          /* sto modificando il contenitore dei 2 pulsanti */
 .button{
-    display: inline-block;
-    margin: 10px 200px;
-    border: 5px grey;
-    background-color: rgb(253, 243, 229);
-    padding: 5px;
-    padding-right: 800px;
+     background-color: rgb(255, 255, 255);
+     margin: 10px 200px;
+     padding-left: 20px;
+    
 }
             /* qui sto modificando il primo e il secondo pulsante */
 .changebutton{
@@ -53,8 +57,11 @@ span{
 
     /* qui ho sistemato il contenitore con l'elenco delle cose */
 .corpoelenco{
-    margin: 0px 200px;
-    padding: 30px;
-    padding-right: 800px;
-    background-color: rgb(253, 243, 229);
+    background-color: rgb(255, 255, 255);
+    margin: 10px 200px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
 }
+
