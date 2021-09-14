@@ -29,7 +29,7 @@ span{
     border: 5px grey;
     background-color: rgb(253, 243, 229);
     padding: 5px;
-    padding-right: 600px;
+    padding-right: 800px;
 }
             /* qui sto modificando il primo e il secondo pulsante */
 .changebutton{
@@ -49,4 +49,12 @@ span{
     font-size: 12px;
     border-radius: 5px;
     padding: 3px;
+}
+
+    /* qui ho sistemato il contenitore con l'elenco delle cose */
+.corpoelenco{
+    margin: 0px 200px;
+    padding: 30px;
+    padding-right: 800px;
+    background-color: rgb(253, 243, 229);
 }
