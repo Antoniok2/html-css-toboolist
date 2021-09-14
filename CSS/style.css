@@ -22,3 +22,31 @@ span{
     display: inline-block;
 }
 
+         /* sto modificando il contenitore dei 2 pulsanti */
+.button{
+    display: inline-block;
+    margin: 10px 200px;
+    border: 5px grey;
+    background-color: rgb(253, 243, 229);
+    padding: 5px;
+    padding-right: 600px;
+}
+            /* qui sto modificando il primo e il secondo pulsante */
+.changebutton{
+    background-color: rgb(67, 67, 243);
+    color: white;
+    font-size: 12px;
+    border-radius: 5px;
+    padding: 3px;
+    margin-left: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.changebutton2{
+    color: gray;
+    background-color: white;
+    font-size: 12px;
+    border-radius: 5px;
+    padding: 3px;
+}
