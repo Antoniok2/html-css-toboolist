@@ -37,22 +37,21 @@ body{
 }
             /* qui sto modificando il primo e il secondo pulsante */
 .changebutton{
-    background-color: rgb(67, 67, 243);
+    background-color: rgb(138, 138, 255);
     color: white;
     font-size: 12px;
-    border-radius: 5px;
-    padding: 3px;
+    border-radius: 8px;
+    padding: 4px;
     margin-left: 20px;
     margin-top: 8px;
     margin-bottom: 8px;
 }
-
 .changebutton2{
     color: gray;
     background-color: white;
     font-size: 12px;
-    border-radius: 5px;
-    padding: 3px;
+    border-radius: 8px;
+    padding: 4px;
 }
 
     /* qui ho sistemato il contenitore con l'elenco delle cose */
@@ -64,45 +63,58 @@ body{
     padding-bottom: 10px;
 
 }
-    /* qui trovo le parole accanto alla lista */
+   
+/* qui trovo le parole accanto alla lista */
 .editorial{
     border-radius: 8px;
     background-color: blue;
     color: white;
     padding: 3px;
 }
-
 .q1goals{
     border-radius: 8px;
     background-color: purple;
     color: white;
     padding: 3px;
 }
-
 .recluiting{
     background-color: rgb(54, 197, 54);
     color: white;
     border-radius: 8px;
     padding: 3px;
 }
-
 .website{
     background-color: pink;
     color: white;
     border-radius: 8px;
     padding: 3px;
 }
-
 .mobile{
     background-color: orange;
     color: white;
     border-radius: 8px;
     padding: 3px;
 }
-
 .sales{
     background-color: rgb(15, 224, 15);
     color: white;
     border-radius: 8px;
     padding: 3px;
+}
+
+h5{
+    display: inline-block;
+}
+
+    /* trovo contenitore di singolo elemento */
+.newtask{
+    font-family: 'Roboto', sans-serif;
+}
+
+.today{
+    font-family: 'Roboto', sans-serif;
+}
+
+.upcoming{
+    font-family: 'Roboto', sans-serif;
 }
